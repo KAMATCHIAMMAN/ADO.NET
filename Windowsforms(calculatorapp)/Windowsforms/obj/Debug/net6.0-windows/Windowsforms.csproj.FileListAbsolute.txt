@@ -1,0 +1,17 @@
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.csproj.AssemblyReference.cache
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.Form1.resources
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.csproj.GenerateResource.cache
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.AssemblyInfoInputs.cache
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.AssemblyInfo.cs
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\bin\Debug\net6.0-windows\Windowsforms.exe
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\bin\Debug\net6.0-windows\Windowsforms.deps.json
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\bin\Debug\net6.0-windows\Windowsforms.runtimeconfig.json
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\bin\Debug\net6.0-windows\Windowsforms.dll
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\bin\Debug\net6.0-windows\Windowsforms.pdb
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.dll
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\refint\Windowsforms.dll
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.pdb
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\Windowsforms.genruntimeconfig.cache
+C:\Users\Kathirvel\source\repos\Windowsforms\Windowsforms\obj\Debug\net6.0-windows\ref\Windowsforms.dll
