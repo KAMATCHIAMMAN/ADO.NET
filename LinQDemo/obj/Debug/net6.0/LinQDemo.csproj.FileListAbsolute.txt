@@ -1,0 +1,15 @@
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.csproj.AssemblyReference.cache
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.AssemblyInfoInputs.cache
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.AssemblyInfo.cs
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\bin\Debug\net6.0\LinQDemo.exe
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\bin\Debug\net6.0\LinQDemo.deps.json
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\bin\Debug\net6.0\LinQDemo.runtimeconfig.json
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\bin\Debug\net6.0\LinQDemo.dll
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\bin\Debug\net6.0\LinQDemo.pdb
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.dll
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\refint\LinQDemo.dll
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.pdb
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\LinQDemo.genruntimeconfig.cache
+C:\Users\Kathirvel\source\repos\LinQDemo\LinQDemo\obj\Debug\net6.0\ref\LinQDemo.dll
